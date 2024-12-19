@@ -74,3 +74,20 @@ This project provides a simple and efficient solution for automatically feeding 
   - **`hardware/`**: Electrical schematics.
   - **`images/`**: Photos and images (block diagram, electrical schematics).
   - **README.md**: This document.
+
+## Bill of Materials 
+| Name | Photo | Source | Technical Characteristics |
+|:------------:|:--------------:|:-------------:|:-------------:|
+|Arduino UNO ATmega328P |![PHOTO](<images/BOM/WhatsApp Image 2024-12-16 at 11.22.14 PM.jpeg>)|Kit |[Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)|
+|Breadboard |![PHOTO](<images/BOM/WhatsApp Image 2024-12-16 at 11.22.15 PM (8).jpeg>)|[Store](https://www.emag.ro/breadboard-830-puncte-mb102-cl01/pd/DF0C5JBBM/?ref=history-shopping_404566740_38837_4)|-|
+|LCD 1602 Module |![PHOTO](<images/BOM/WhatsApp Image 2024-12-16 at 11.22.15 PM (1).jpeg>)|Kit|[Datasheet](https://www.waveshare.com/datasheet/LCD_en_PDF/LCD1602.pdf)|
+|Resistors |![PHOTO](<images/BOM/WhatsApp Image 2024-12-16 at 11.22.16 PM.jpeg>)|Kit|-|
+|Colorful Wires |![PHOTO](<images/BOM/WhatsApp Image 2024-12-16 at 11.22.16 PM (1).jpeg>)|Kit|-|
+|ServoMotor | Kit |-|
+
+## Hardware Gallery 
+![](https://web.whatsapp.com/ec4f0ad4-45e4-49ac-a872-d764c00dcda6)
+
+
+## Photo with the LCD Display Working
+[Video](https://web.whatsapp.com/fe1b1b7c-494e-4bfc-b760-d4c365e273b0)
