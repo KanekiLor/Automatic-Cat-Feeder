@@ -20,7 +20,7 @@ Block diagram of the project:
    - **Button to adjust the food portion**
    - **Button for manual feeding**
 
-`![Block Diagram](https://github.com/KanekiLor/Automatic-Cat-Feeder/blob/main/Media/Untitled%20Diagram.jpg)`
+![Block Diagram](https://github.com/KanekiLor/Automatic-Cat-Feeder/blob/main/Media/Untitled%20Diagram.jpg)
 
 ---
 
@@ -34,7 +34,7 @@ Block diagram of the project:
 
 ### Electrical Schematics
 
-`![Electrical Schematic](https://github.com/KanekiLor/Automatic-Cat-Feeder/blob/main/Media/Screenshot%202024-12-19%20174007.png)`
+![Electrical Schematic](https://github.com/KanekiLor/Automatic-Cat-Feeder/blob/main/Media/Screenshot%202024-12-19%20174007.png)
 
 ---
 
@@ -86,7 +86,7 @@ This project provides a simple and efficient solution for automatically feeding 
 |ServoMotor | Kit |-|
 
 ## Hardware Gallery 
-![](https://web.whatsapp.com/ec4f0ad4-45e4-49ac-a872-d764c00dcda6)
+[](https://web.whatsapp.com/ec4f0ad4-45e4-49ac-a872-d764c00dcda6)
 
 
 ## Photo with the LCD Display Working
