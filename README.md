@@ -91,3 +91,9 @@ This project provides a simple and efficient solution for automatically feeding 
 
 ## Photo with the LCD Display Working
 ![Video](https://github.com/KanekiLor/Automatic-Cat-Feeder/blob/main/Media/d90df7ae-1eb6-48ab-91f0-542b9b5cb760.jpg)
+
+## Photo of the 3D Design
+![](https://github.com/KanekiLor/Automatic-Cat-Feeder/blob/main/Media/3d%20media/Screenshot%202024-12-19%20181311.png)
+![](https://github.com/KanekiLor/Automatic-Cat-Feeder/blob/main/Media/3d%20media/Screenshot%202024-12-19%20181413.png)
+![](https://github.com/KanekiLor/Automatic-Cat-Feeder/blob/main/Media/3d%20media/Screenshot%202024-12-19%20181448.png)
+![](https://github.com/KanekiLor/Automatic-Cat-Feeder/blob/main/Media/3d%20media/Screenshot%202024-12-19%20181813.png)
