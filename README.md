@@ -20,7 +20,7 @@ Block diagram of the project:
    - **Button to adjust the food portion**
    - **Button for manual feeding**
 
-`![Block Diagram](images/schemabloc.png)`
+`![Block Diagram](https://github.com/KanekiLor/Automatic-Cat-Feeder/blob/main/Media/Untitled%20Diagram.jpg)`
 
 ---
 
@@ -28,13 +28,13 @@ Block diagram of the project:
 ### List of Components
 - **Arduino Uno**  
 - **Servo motor** (e.g., SG90)  
-- **16x2 LCD with I2C adapter**  
-- **4 Buttons** for control  
-- Various auxiliary components: resistors, jumper wires, breadboard.
+- **16x1 LCD **  
+- **7 Buttons** for control  
+- Various auxiliary components: resistors, jumper wires.
 
 ### Electrical Schematics
 
-`![Electrical Schematic](images/schemelectric.png)`
+`![Electrical Schematic](https://github.com/KanekiLor/Automatic-Cat-Feeder/blob/main/Media/Screenshot%202024-12-19%20174007.png)`
 
 ---
 
