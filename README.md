@@ -86,8 +86,8 @@ This project provides a simple and efficient solution for automatically feeding 
 |ServoMotor | Kit |-|
 
 ## Hardware Gallery 
-[1](https://github.com/KanekiLor/Automatic-Cat-Feeder/blob/main/Media/566045a2-8a21-48d6-ab48-12e5e99a9def.jpg)
+![1](https://github.com/KanekiLor/Automatic-Cat-Feeder/blob/main/Media/566045a2-8a21-48d6-ab48-12e5e99a9def.jpg)
 
 
 ## Photo with the LCD Display Working
-[Video](https://github.com/KanekiLor/Automatic-Cat-Feeder/blob/main/Media/d90df7ae-1eb6-48ab-91f0-542b9b5cb760.jpg)
+![Video](https://github.com/KanekiLor/Automatic-Cat-Feeder/blob/main/Media/d90df7ae-1eb6-48ab-91f0-542b9b5cb760.jpg)
