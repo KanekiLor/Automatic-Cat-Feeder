@@ -86,7 +86,7 @@ This project provides a simple and efficient solution for automatically feeding 
 |ServoMotor | Kit |-|
 
 ## Hardware Gallery 
-[](https://web.whatsapp.com/ec4f0ad4-45e4-49ac-a872-d764c00dcda6)
+[1](https://web.whatsapp.com/ec4f0ad4-45e4-49ac-a872-d764c00dcda6)
 
 
 ## Photo with the LCD Display Working
